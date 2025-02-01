@@ -40,7 +40,7 @@ finished working. You can restart the Codespace at any time.
 1. Open VS Code.
 2. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
    the repository
-   [`garth-wells/CUED-3D7-Lab`](https://github.com/garth-wells/CUED-3D7-Lab)
+   [`BrianBao6/CUED-3D7-Lab`](https://github.com/BrianBao6/CUED-3D7-Lab)
    from GitHUb using from VS Code.
 3. Follow the VS Code prompts to install 'Dev Containers'.
 4. Select the VS Code prompt 'Reopen in Container'.
