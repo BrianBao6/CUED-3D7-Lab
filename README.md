@@ -12,7 +12,7 @@ libraries. In this case the lab can be undertaken using
 
 ## Colab (recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garth-wells/CUED-3D7-Lab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrianBao6/CUED-3D7-Lab)
 
 At the start of each session it will take a few minutes for the required
 libraries to be installed.
